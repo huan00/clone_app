@@ -1,0 +1,5 @@
+[2022-08-16 11:59:51.160] [main] [info] update#setState idle
+[2022-08-16 11:59:53.395] [main] [info] Starting extension host with pid 1562 (fork() took 4 ms).
+[2022-08-16 12:00:21.160] [main] [info] update#setState checking for updates
+[2022-08-16 12:00:21.576] [main] [info] update#setState idle
+[2022-08-16 12:00:51.139] [main] [info] Extension host with pid 1562 exited with code: 0, signal: null.

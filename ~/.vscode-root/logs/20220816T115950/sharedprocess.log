@@ -1,0 +1,4 @@
+[2022-08-16 11:59:54.430] [sharedprocess] [info] Starting worker process with pid 1570 (type: fileWatcher, window: 1).
+[2022-08-16 12:00:51.064] [sharedprocess] [info] Worker process with pid 1570 terminated normally (type: fileWatcher, window: 1).
+[2022-08-16 12:12:19.015] [sharedprocess] [info] Detected extension installed from another source robbowen.synthwave-vscode
+[2022-08-16 12:12:19.016] [sharedprocess] [info] Detected extension removed from another source aaronyoung.dark-synthwave-vscode
